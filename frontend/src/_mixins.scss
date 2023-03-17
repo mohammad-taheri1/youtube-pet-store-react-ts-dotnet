@@ -1,0 +1,12 @@
+@mixin d-flex($direction, $justify, $align) {
+   display: flex;
+   flex-direction: $direction;
+   justify-content: $justify;
+   align-items: $align;
+}
+
+@mixin main-style {
+   width: 100%;
+   @include d-flex(column, flex-start, center);
+   gap: 3rem;
+}

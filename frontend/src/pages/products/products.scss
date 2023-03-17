@@ -1,0 +1,25 @@
+@import "../../mixins";
+
+.products {
+   @include main-style();
+
+   .table-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 30px 2px rgba(0, 0, 0, 0.1);
+      padding: 1rem;
+      border-radius: 12px;
+
+      table {
+         width: 100%;
+
+         td,
+         th {
+            border: 1px solid #c3c3c380;
+            border-radius: 6px;
+            text-align: center;
+         }
+      }
+   }
+}
