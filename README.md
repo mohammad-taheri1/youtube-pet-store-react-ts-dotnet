@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=5N9FsYPsAso
 
 ## What is used in this tutorial
 
-### Backend
+### On Backend project
 
 -  Entities
 -  Dtos
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=5N9FsYPsAso
 -  Postman
 -  Postman Collections
 
-### Frontend
+### On Frontend project
 
 -  Sending state while redirecting user
 -  Nested Routing
