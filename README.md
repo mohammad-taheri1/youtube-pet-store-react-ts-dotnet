@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=5N9FsYPsAso
 
 <img src="./banner.png" />
 
-## What is used in this tutorial
+## We will learn these topics together
 
 ### On Backend project
 
